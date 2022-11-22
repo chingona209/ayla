@@ -1,0 +1,81 @@
+html {
+
+    background-image: url("https://img.freepik.com/free-vector/pastel-ombre-background-pink-purple_53876-120750.jpg?w=996&t=st=1669007737~exp=1669008337~hmac=d194b459d49509a3c9e007295619111535e574fef509f0879d61bad5e77674ec");
+    background-size: cover;
+    
+}
+
+body {
+    text-align: center;
+    list-style-position: inside;
+}
+
+div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+
+h1 {
+    color:blueviolet;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+ul {list-style-type:circle;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.one {
+
+    background-color: rgba(187, 181, 173, 0.514);
+    opacity: 0.9;
+}
+
+#movies {
+    color: rgb(58, 53, 222, 87);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#first-list {
+    color:rgb(58, 53, 222, 87)
+}
+
+#songs {
+    color:rgb(60, 105, 250, 98)
+}
+
+#second-list {
+    color:rgb(60, 105, 250, 98)
+}
+
+#images {
+    color:rgb(221, 60, 250, 98)
+}
+
+#neon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#wedding {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h3 {
+    color: rgb(61, 207, 245, 96)
+}
+
+
+#wedding {
+    width: 200px;
+}
